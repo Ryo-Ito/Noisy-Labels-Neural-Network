@@ -2,7 +2,7 @@
 Chainer implementation of "Training Deep Neural-Networks Based on Unreliable Labels."
 Note that this is not an official implementation of the paper.
 
-Training of the network can be simply run by
+Training of the network runs by
 
 ```bash
 $ python train.py
